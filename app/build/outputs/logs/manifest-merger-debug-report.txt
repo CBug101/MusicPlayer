@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1af8788c8145cff49f9a258f5057ae3e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2bec646f5263dc8e04c51026cfb3f3d6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\146987734979af3c5ed0eb05a86837b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\32ad37ac80b4088a3f027aa664d60980\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d15170eb847cd2551d6bb7dd072cdad7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1309448948e0edc466fe5fa8ba906442\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\810543bebe8f819724fcca6c2788b8cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6f45fd0a6f6b47ae2654f2336339c3d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2ade6fd9f354ba70de67da1fe7fa1c23\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\05c217e09c41079c96347ae060a3447c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d63f2fd7306b6c69d7c51186ecef42ab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\60a3d9ab25955df20d918b0246086094\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\9341e9ee6e2c24b103a27f44c7169c54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\abb424e1f486cb4572249c91b5f82c9d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\f758d9e0ee76388305b963b8ba549c4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\0e4c6f5abbbd04294953d6462a9bf5ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\630d9cff3ba74b8499d68c2367c716c9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\fc299d2a88e730078b98af0011114294\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\87bc8dc1e8e4a3a6dce74a73614f615b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6d89466ceb3d0e9f09620bcbb0d3cb96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\a3cec40be3bc29b121077ecf455cbe8b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1af8788c8145cff49f9a258f5057ae3e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1af8788c8145cff49f9a258f5057ae3e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\abb424e1f486cb4572249c91b5f82c9d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\abb424e1f486cb4572249c91b5f82c9d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.musicplayer.MainActivity
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.android.musicplayer.PlayMode
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:19:9-22:57
+	android:parentActivityName
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:22:13-55
+	android:label
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:20:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:24:9-26:44
+	android:value
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:26:13-42
+	android:name
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:25:13-59
+uses-sdk
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1af8788c8145cff49f9a258f5057ae3e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1af8788c8145cff49f9a258f5057ae3e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2bec646f5263dc8e04c51026cfb3f3d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2bec646f5263dc8e04c51026cfb3f3d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\146987734979af3c5ed0eb05a86837b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\146987734979af3c5ed0eb05a86837b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\32ad37ac80b4088a3f027aa664d60980\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\32ad37ac80b4088a3f027aa664d60980\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d15170eb847cd2551d6bb7dd072cdad7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d15170eb847cd2551d6bb7dd072cdad7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1309448948e0edc466fe5fa8ba906442\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\1309448948e0edc466fe5fa8ba906442\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\810543bebe8f819724fcca6c2788b8cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\810543bebe8f819724fcca6c2788b8cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6f45fd0a6f6b47ae2654f2336339c3d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6f45fd0a6f6b47ae2654f2336339c3d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2ade6fd9f354ba70de67da1fe7fa1c23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\2ade6fd9f354ba70de67da1fe7fa1c23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\05c217e09c41079c96347ae060a3447c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\05c217e09c41079c96347ae060a3447c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d63f2fd7306b6c69d7c51186ecef42ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\d63f2fd7306b6c69d7c51186ecef42ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\60a3d9ab25955df20d918b0246086094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\60a3d9ab25955df20d918b0246086094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6b888263f5122ebe37c0cd3cf5d2e878\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\9341e9ee6e2c24b103a27f44c7169c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\9341e9ee6e2c24b103a27f44c7169c54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\abb424e1f486cb4572249c91b5f82c9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\abb424e1f486cb4572249c91b5f82c9d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\f758d9e0ee76388305b963b8ba549c4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\f758d9e0ee76388305b963b8ba549c4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\0e4c6f5abbbd04294953d6462a9bf5ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\0e4c6f5abbbd04294953d6462a9bf5ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\630d9cff3ba74b8499d68c2367c716c9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\630d9cff3ba74b8499d68c2367c716c9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\fc299d2a88e730078b98af0011114294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\fc299d2a88e730078b98af0011114294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\87bc8dc1e8e4a3a6dce74a73614f615b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\87bc8dc1e8e4a3a6dce74a73614f615b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6d89466ceb3d0e9f09620bcbb0d3cb96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\6d89466ceb3d0e9f09620bcbb0d3cb96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\a3cec40be3bc29b121077ecf455cbe8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Buddy\.gradle\caches\transforms-2\files-2.1\a3cec40be3bc29b121077ecf455cbe8b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
