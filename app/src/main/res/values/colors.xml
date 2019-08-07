@@ -5,4 +5,7 @@
     <color name="colorAccent">#8e8e8e</color>
     <color name="red">#fc1606</color>
     <color name="textColor">#ffffff</color>
+    <color name="category_library">#ffffff</color>
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#8800A0</color>
 </resources>
