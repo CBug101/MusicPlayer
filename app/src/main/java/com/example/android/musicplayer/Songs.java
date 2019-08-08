@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class Songs extends AppCompatActivity {
 
-    WordAdapter wordAdapter;
+    VariableAdapter songList;
     int i;
 
     @Override
@@ -17,16 +17,16 @@ public class Songs extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.song_list);
 
-        ArrayList<Word> library = new ArrayList<>();
+        ArrayList<Variable> library = new ArrayList<>();
 
         for (i=0; i<100; i++){
 
-            library.add(new Word("Song", "Artist"));
+            library.add(new Variable("Song", "Artist"));
 
 
-            wordAdapter = new WordAdapter(this, library, R.color.category_library);
-            ListView listView = (ListView) findViewById(R.id.list);
-            listView.setAdapter(wordAdapter);
+            songList = new VariableAdapter(this, library, R.color.category_library);
+            ListView listView = findViewById(R.id.list);
+            listView.setAdapter(songList);
         }
 
     }}

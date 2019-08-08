@@ -1584,7 +1584,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout library_list
-layout list_item
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1600,7 +1599,7 @@ layout select_dialog_singlechoice_material
 layout settings_mode
 layout song_list
 layout support_simple_spinner_dropdown_item
-layout word_list
+layout text_style
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description

@@ -1,26 +1,20 @@
 package com.example.android.musicplayer;
 
-public class Word {
+public class Variable {
 
-    // default translation for the word
     private String mSongName;
 
     private String mArtistName;
 
+    //@param songName
+    //@param artistName
 
-    /**
-     * Create a new Word object.
-     *
-     * @param songName
-     * @param artistName
-     */
-
-    public Word(String songName, String artistName) {
+    public Variable(String songName, String artistName) {
         mSongName = songName;
         mArtistName = artistName;
     }
 
-// Get the song name.
+    // Get the song name.
 
     public String getSongName() {
 
