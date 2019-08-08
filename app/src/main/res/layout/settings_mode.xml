@@ -15,7 +15,7 @@
     <Switch
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="25sp"
+        android:padding="25dp"
         android:showText="true"
         android:text="Do Something"
         android:textColor="@color/textColor"
@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:padding="25sp"
+        android:padding="25dp"
         android:showText="true"
         android:text="Do Something Else"
         android:textColor="@color/textColor"
