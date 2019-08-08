@@ -93,44 +93,44 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.example.android.musicplayer.PlayMode
+activity#com.example.android.musicplayer.PlayActivity
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:19:9-22:58
 	android:parentActivityName
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:22:13-55
 	android:label
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:21:13-55
 	android:name
-		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:20:13-41
 meta-data#android.support.PARENT_ACTIVITY
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:24:9-26:45
 	android:value
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:26:13-42
 	android:name
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:25:13-59
-activity#com.example.android.musicplayer.Settings
+activity#com.example.android.musicplayer.SettingsActivity
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:28:9-31:58
 	android:parentActivityName
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:31:13-55
 	android:label
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:30:13-42
 	android:name
-		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:29:13-37
-activity#com.example.android.musicplayer.Library
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:29:13-45
+activity#com.example.android.musicplayer.LibraryActivity
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:38:9-41:58
 	android:parentActivityName
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:41:13-55
 	android:label
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:40:13-41
 	android:name
-		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:39:13-36
-activity#com.example.android.musicplayer.Songs
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:39:13-44
+activity#com.example.android.musicplayer.SongsActivity
 ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:47:9-50:58
 	android:parentActivityName
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:50:13-55
 	android:label
 		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:49:13-39
 	android:name
-		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:48:13-34
+		ADDED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:48:13-42
 uses-sdk
 INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Buddy\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml

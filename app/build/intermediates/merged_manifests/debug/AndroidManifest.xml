@@ -26,7 +26,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.android.musicplayer.PlayMode"
+            android:name="com.example.android.musicplayer.PlayActivity"
             android:label="@string/category_play_mode"
             android:parentActivityName="com.example.android.musicplayer.MainActivity" />
         <!-- Parent activity meta-data to support 4.0 and lower -->
@@ -35,7 +35,7 @@
             android:value=".MainActivity" />
 
         <activity
-            android:name="com.example.android.musicplayer.Settings"
+            android:name="com.example.android.musicplayer.SettingsActivity"
             android:label="Settings Mode"
             android:parentActivityName="com.example.android.musicplayer.MainActivity" />
         <!-- Parent activity meta-data to support 4.0 and lower -->
@@ -44,7 +44,7 @@
             android:value=".MainActivity" />
 
         <activity
-            android:name="com.example.android.musicplayer.Library"
+            android:name="com.example.android.musicplayer.LibraryActivity"
             android:label="Library Mode"
             android:parentActivityName="com.example.android.musicplayer.MainActivity" />
         <!-- Parent activity meta-data to support 4.0 and lower -->
@@ -53,7 +53,7 @@
             android:value=".MainActivity" />
 
         <activity
-            android:name="com.example.android.musicplayer.Songs"
+            android:name="com.example.android.musicplayer.SongsActivity"
             android:label="Songs Mode"
             android:parentActivityName="com.example.android.musicplayer.MainActivity" />
         <!-- Parent activity meta-data to support 4.0 and lower -->

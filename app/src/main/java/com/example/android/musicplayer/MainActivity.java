@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity {
         //Sets a click listener on playermode(playerCard)
         playermode.setOnClickListener(new View.OnClickListener() {
 
-            //On click "this" main activity will switch screen to PlayMode.class
+            //On click "this" main activity will switch screen to PlayActivity.class
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, PlayMode.class);
+                Intent intent = new Intent(MainActivity.this, PlayActivity.class);
                 startActivity(intent);
             }
         });
@@ -40,10 +40,10 @@ public class MainActivity extends AppCompatActivity {
         //Sets a click listener on settingsmode(playerCard)
         settingsmode.setOnClickListener(new View.OnClickListener() {
 
-            //On click "this" main activity will switch screen to PlayMode.class
+            //On click "this" main activity will switch screen to PlayActivity.class
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, Settings.class);
+                Intent intent = new Intent(MainActivity.this, SettingsActivity.class);
                 startActivity(intent);
             }
         });
@@ -54,10 +54,10 @@ public class MainActivity extends AppCompatActivity {
         //Sets a click listener on librarymode(playerCard)
         librarymode.setOnClickListener(new View.OnClickListener() {
 
-            //On click "this" main activity will switch screen to PlayMode.class
+            //On click "this" main activity will switch screen to PlayActivity.class
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, com.example.android.musicplayer.Library.class);
+                Intent intent = new Intent(MainActivity.this, LibraryActivity.class);
                 startActivity(intent);
             }
         });
@@ -68,10 +68,10 @@ public class MainActivity extends AppCompatActivity {
         //Sets a click listener on songssmode(playerCard)
         songsmode.setOnClickListener(new View.OnClickListener() {
 
-            //On click "this" main activity will switch screen to PlayMode.class
+            //On click "this" main activity will switch screen to PlayActivity.class
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, Songs.class);
+                Intent intent = new Intent(MainActivity.this, SongsActivity.class);
                 startActivity(intent);
             }
         });
