@@ -47,19 +47,19 @@
                 android:id="@+id/imageView3"
                 android:layout_width="61dp"
                 android:layout_height="61dp"
-                app:srcCompat="@drawable/ic_pause_black_24dp" />
+                app:srcCompat="@drawable/ic_action_playback_pause" />
 
             <ImageView
                 android:id="@+id/imageView4"
                 android:layout_width="61dp"
                 android:layout_height="61dp"
-                app:srcCompat="@drawable/play" />
+                app:srcCompat="@drawable/ic_action_playback_play" />
 
             <ImageView
                 android:id="@+id/imageView5"
                 android:layout_width="61dp"
                 android:layout_height="61dp"
-                app:srcCompat="@drawable/favorites" />
+                app:srcCompat="@drawable/ic_action_playback_stop" />
         </LinearLayout>
 
     </LinearLayout>

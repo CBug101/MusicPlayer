@@ -36,7 +36,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="117dp"
                 android:layout_gravity="center"
-                android:src="@drawable/play" />
+                android:src="@drawable/ic_action_playback_play" />
 
         </androidx.cardview.widget.CardView>
     </LinearLayout>
@@ -65,7 +65,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="0dp"
                 android:layout_weight="1"
-                android:src="@drawable/library" />
+                android:src="@drawable/ic_action_sort_1" />
 
         </androidx.cardview.widget.CardView>
 
@@ -96,7 +96,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="0dp"
                 android:layout_weight="1"
-                android:src="@drawable/favorites" />
+                android:src="@drawable/ic_action_star_10" />
 
         </androidx.cardview.widget.CardView>
     </LinearLayout>
@@ -126,7 +126,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="0dp"
                 android:layout_weight="1"
-                android:src="@drawable/settings" />
+                android:src="@drawable/ic_action_settings" />
 
         </androidx.cardview.widget.CardView>
     </LinearLayout>
