@@ -19,17 +19,17 @@
         android:showText="true"
         android:text="Do Something"
         android:textColor="@color/textColor"
-        android:textSize="20dp" />
+        android:textSize="20sp" />
 
     <Switch
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
         android:padding="25dp"
         android:showText="true"
         android:text="Do Something Else"
         android:textColor="@color/textColor"
-        android:textSize="20dp" />
+        android:textSize="20sp" />
+
 
 
     </LinearLayout>
